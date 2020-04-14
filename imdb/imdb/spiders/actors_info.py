@@ -4,7 +4,7 @@ import unidecode
 import re
 import random
 #remove all leading, trailing spaces, newline and brackets
-cleanString = lambda x: '' if x is None else unidecode.unidecode(re.sub(r'^\s+|\s+$|\n|\(.*\)','',x))
+cleanString = lambda x: '' if x is None else unidecode.unidecode(re.sub(r'^\s+|\s+$|\n|\(|\)','',x))
 
 
 class ActorsInfoSpider(scrapy.Spider):
@@ -55,14 +55,11 @@ class ActorsInfoSpider(scrapy.Spider):
     def parse_actor(self, response):
         print("parsing the actor page")
         for div in response.css("div.filmo-category-section div"):
-            #print(div)
             movie_year = cleanString(div.css("span.year_column::text").get())
-            print(movie_year)
             if "1979" < movie_year < "1990": #to do: remove spaces from strings
                 in_production = div.css('a.in_production::text').get()
                 if in_production is None:
                     movie_page = div.css("a::attr(href)").get()
-                    print(movie_page)
                     if movie_page is not None:
                         movie_page = response.urljoin(movie_page)
                         yield scrapy.Request(movie_page, callback=self.parse)
