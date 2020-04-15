@@ -10,5 +10,5 @@ After we scraped the data we analyze it using the **elastic stack software** whi
 Therefore in our configuration we use Logstash to send the data into Elasticsearch where the data is get indexed and Kibana to visualize the json data to drive insights.  
 ## Logistach configuration file to send data into an Elasticssearch  Index.
 
-![][configuration.PNG]
+![](configuration.PNG)
 
