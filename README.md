@@ -32,7 +32,7 @@ Filter using actor name
 ![](Dashboard2F.PNG)
 
 ##  Top 3 movie actors each year.
-This helps us to know who are the top actors on each year.
+This helps us to know the top three actors on each year based on the number of movies they participated .
 ![](top3actors.PNG)
 
 ## Challenges
