@@ -22,7 +22,12 @@ Then using the configuration file we can start indexing the data by performing t
 
 When the data is properly indexed we can start analyzing it using kibana
 
-Visualization using Kibana 
+## Visualization using Kibana 
+## DashBoard without Filter
+![](Dashboard1.PNG)
+## Dashboard with Filer
+![](Dahboard2.PNG)
+
 
 
 
