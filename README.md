@@ -27,7 +27,7 @@ A. Pie Chart of top five actors and movies they participated
 
 ![](actor_movie.PNG)
 
-From the above pie-chart Hurrison Ford Participated in many movies 
+From the above pie-chart we deduce **Hurrison Ford** participated in many movies 
 
 
 
