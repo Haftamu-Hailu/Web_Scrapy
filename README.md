@@ -26,7 +26,7 @@ When the data is properly indexed we can start analyzing it using kibana
 ## DashBoard without Filter
 ![](Dashboard1.PNG)
 ## Dashboard with Filer
-![](Dahboard2.PNG)
+![](Dashboard2.PNG)
 
 
 
