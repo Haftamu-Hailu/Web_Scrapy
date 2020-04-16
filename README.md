@@ -25,3 +25,5 @@ When the data is properly indexed we can start analyzing it using kibana
 Visualization using Kibana 
 
 
+
+
