@@ -11,9 +11,9 @@ Therefore in our configuration we use Logstash to send the data into Elasticsear
 ## Logistach configuration file to send data into an Elasticssearch  Index.
 
 ![](configuration.PNG)
-The configuration file contain three sections
-1. Input -section to specify the input file
-2. Filter- to do filtering operation on the input file.  For example, we converted year from string to Integer 
-3. Output- to specify the Elasticsearch index (imdb_movie)
+The configuration file contain three sections;-
+1. **Input** -to specify the input file type, and encoding
+2. **Filter**- to do filtering operation on the input file.  For example, we converted year from string to Integer 
+3. **Output**- to specify the Elasticsearch index (imdb_movie)
 
 
