@@ -2,6 +2,8 @@
 
 ## Task 7.3: Study the obtained data using the Elastic Stack
 
+Basically, for this section we use local installtion of Elastic Stack due to the cloud version was not configured properly.
+
 After we scraped the data we analyze it using the **elastic stack software** which is a collection of three major components  which are Elasticsearch, Logstash, and Kibana<br/>
 1. Logstash-  tool for managing events and logs
 2. Elasticsearch-a document-oriented NoSQL database designed to store, retrieve and manage structured and semi-structured data.
