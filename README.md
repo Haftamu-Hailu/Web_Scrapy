@@ -31,7 +31,7 @@ When the data is properly indexed we can start analyzing it using kibana
 Filter using actor name 
 ![](Dashboard2F.PNG)
 
-##  Top 3 movie actors each year.
+## Top 3 actors each year.
 This helps us to know the top three actors on each year based on the number of movies they participated .
 ![](top3actors.PNG)
 
