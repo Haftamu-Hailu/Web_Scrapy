@@ -34,6 +34,8 @@ Filter using actor name
 
 ## Challenges
 **Problem**: Unable to send  data from Pycharm to Elastic cloud.<br/>
+We configured all the environmental variables appropriately but continously we faced the following errors.
+![](error.PNG)
 **Solution**: We sweitched to local elastic stack installation to use.
 
 
