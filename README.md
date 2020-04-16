@@ -26,6 +26,7 @@ When the data is properly indexed we can start analyzing it using kibana
 ## DashBoard without Filter
 ![](Dashboard1.PNG)
 ## Dashboard with Filer
+Filter using actor name of Bea Artur 
 ![](Dashboard2F.PNG)
 
 
