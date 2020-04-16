@@ -31,12 +31,15 @@ When the data is properly indexed we can start analyzing it using kibana
 Filter using actor name 
 ![](Dashboard2F.PNG)
 
+##  Top 3 movie actors each year.
+This helps us to know who are the top actors on each year.
+![](top3actors.PNG)
 
 ## Challenges
 **Problem**: Unable to send  data from Pycharm to Elastic cloud.<br/>
 We configured all the environmental variables appropriately but continously we faced the following errors.
 ![](error.PNG)
-**Solution**: We sweitched to local elastic stack installation to use.
+**Solution**: We switched to local elastic stack installation.
 
 
 
