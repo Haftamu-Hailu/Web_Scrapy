@@ -23,12 +23,6 @@ Then using the configuration file we can start indexing the data by performing t
 When the data is properly indexed we can start analyzing it using kibana
 
 Visualization using Kibana 
-A. Pie Chart of top five actors and movies they participated
-
-![](actor_movie.PNG)
-
-From the above pie-chart we deduce **Hurrison Ford** participated in many movies 
-
 
 
 
