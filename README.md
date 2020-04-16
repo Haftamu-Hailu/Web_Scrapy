@@ -32,5 +32,9 @@ Filter using actor name
 ![](Dashboard2F.PNG)
 
 
+## Challenges
+**Problem**: Unable to send  data from Pycharm to Elastic cloud. 
+solution: We sweitched to local elastic stack installation to use.
+
 
 
