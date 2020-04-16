@@ -34,7 +34,7 @@ Filter using actor name
 
 ## Challenges
 **Problem**: Unable to send  data from Pycharm to Elastic cloud.<br/>
-**solution**: We sweitched to local elastic stack installation to use.
+**Solution**: We sweitched to local elastic stack installation to use.
 
 
 
