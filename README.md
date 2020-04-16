@@ -28,11 +28,13 @@ When the data is properly indexed we can start analyzing it using kibana
 ## DashBoard without Filter
 ![](Dashboard1.PNG)
 ## Dashboard with Filer
-Filter using actor name 
+
+We applied filter to all  visualization of the dashboard using actor name and the resulted dashboard is given below.<br 
 ![](Dashboard2F.PNG)
 
 ## Top 3 actors each year.
-This helps us to know the top three actors on each year based on the number of movies they participated .
+
+This helps us to know the top three actors on each year based on the number of movies they participated.
 ![](top3actors.PNG)
 
 ## Challenges
