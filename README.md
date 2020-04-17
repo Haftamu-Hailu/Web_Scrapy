@@ -42,17 +42,19 @@ We applied filter to all  visualization components of the dashboard using an act
 This helps us to know the top three actors on each year based on the number of movies they participated. From the result **Howard cosell** participated in **six movies** in a single year,i.e 1980  
 ![](top3actors.png)
 
-## Tag cLoud of most popular actors by average movie rating
+## Tag ccoud of most popular actors by average movie rating
 ![](movierating.PNG)
 
-## How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them?
 
-we worked around 15 hours and the main challange was understanding the structure of the Imdb page because this is our first time we scraped data from the web. 
-
-**Solution**: We follow a tutorial to understand how the **xpath** and **css** selector works. Finally, we choose css selector because the Imdb web site was easy to scrap using it.
 
 ## Challenge
-No major challenges were faced but it took us >12 hours to finish the project. 
+No major challenges were faced but it took us >12 hours to finish the project.
+
+
+But a minor issue was,we faced some errors when we load data into elastic cloud from pycharm
+We we decided to use local installation of elastic stack due to the time constraint. 
+
+
 
 
 
