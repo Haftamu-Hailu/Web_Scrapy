@@ -47,6 +47,6 @@ This helps us to know the top three actors on each year based on the number of m
 ## Challenges
 **Problem**:Unable to send live data from Pycharm to Elastic cloud. Though we configured the enviromental variables correctly we continously get the following error.
 ![](error.png)
-**Solution**:  We forced to use local installation of Elastic stack
+**Solution**:  Because of the time constraints, we forced to use local installation of Elastic stack
 
 
