@@ -39,3 +39,6 @@ We applied filter to all  visualization of the dashboard using actor name and th
 This helps us to know the top three actors on each year based on the number of movies they participated.
 ![](top3actors.png)
 
+## Tag CLoud of actors by average Movie Rating
+![](movierating.PNG)
+
