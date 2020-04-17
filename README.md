@@ -23,17 +23,18 @@ The configuration pipeline contain three sections.
 Then using the configuration file we can start indexing the data by performing the following command line operation
 
 
-
 When the data is properly indexed we can start analyzing it using kibana
 
 ## Visualization using Kibana 
+
 ## DashBoard without Filter
 ![](Dashboard1.png)
 
 
 ## Dashboard with Filter
 
-We applied filter to all  visualization components of the dashboard using actor name and the resulted dashboard is given below.<br/> 
+We applied filter to all  visualization components of the dashboard using an actor name. Here we selected six actors and the resulted dashboard is given below.<br/>
+
 ![](Dashboard2F.png)
 
 ## Find top 3 actors each year.
