@@ -47,9 +47,9 @@ This helps us to know the top three actors on each year based on the number of m
 
 ## How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them?
 
-we worked around 15 hours and the main challange was understanding the structure of the Imdb page because this our first time we scraped data from the web. 
+we worked around 15 hours and the main challange was understanding the structure of the Imdb page because this is our first time we scraped data from the web. 
 
-**Solution**: We follow a tutorial to understand how the **xpath** and **css** selector works and finally we choose css selector because the Imdb web site was easy to scrap with it.
+**Solution**: We follow a tutorial to understand how the **xpath** and **css** selector works. Finally, we choose css selector because the Imdb web site was easy to scrap using it.
 
 ## Challenge
 **Problem**:Unable to send live data from Pycharm to Elastic cloud. Though we configured the enviromental variables correctly we continously get the following error.
