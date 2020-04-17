@@ -1,4 +1,4 @@
-# Lab  7:  Using Elastic Stack to study scraped data from a web page
+# Lab  7:  Using Elastic Stack to study scraped data 
 
 ## Task 7.3: Study the obtained data using the Elastic Stack
 
