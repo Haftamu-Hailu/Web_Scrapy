@@ -52,10 +52,7 @@ we worked around 15 hours and the main challange was understanding the structure
 **Solution**: We follow a tutorial to understand how the **xpath** and **css** selector works. Finally, we choose css selector because the Imdb web site was easy to scrap using it.
 
 ## Challenge
-**Problem**:Unable to send live data from Pycharm to Elastic cloud. Though we configured the enviromental variables correctly we continously get the following error.
-![](error.png)
-<br/>
-**Solution**:  Because of the time constraint, we decided to use local installation of elastic stack.
+No major challenges were faced but it took us >12 hours to finish the project. 
 
 
 
