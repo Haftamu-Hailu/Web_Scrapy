@@ -9,7 +9,7 @@ After we scraped the data we analyze it using the **elastic stack software** whi
 2. **Elasticsearch**-a document-oriented NoSQL database designed to store, retrieve and manage structured and semi-structured data.
 3. **Kibana**- is data visualization and exploration tool 
 
-Therefore in our configuration we use Logstash to send the data into Elasticsearch where the data is get indexed and Kibana to visualize the json data to drive insights.  
+Therefore in our configuration we use Logstash to index the json data into Elasticsearch and Kibana to visualize the data to drive useful insights.  
 ## Logstach configuration file to send data into an Elasticssearch  Index.
 
 ![](configuration.PNG)
