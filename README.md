@@ -18,7 +18,7 @@ The configuration pipeline contain three sections.
 2. **Filter**- to do filtering operation on the input file.  For example, we converted year from string to Integer 
 3. **Output**- to specify the Elasticsearch index (imdb_movie)
 
-When the data is imported to Elasticsearch from any source, Logstash understands every field as a string; hence appropriate changes are required in the configuration file depending on the intended analysis. Data conversion is managed by Logstash **filter plugin**. As we can see in the configuration filter section, the **movie_year** and **movie_rating**   fields are defined to be treated as numbers rather than strings while indexing. This enables the user to perform numeric aggregations like average movie rating and other at various granularity levels.
+**Note**-When the data is imported to Elasticsearch from any source, Logstash understands every field as a string; hence appropriate changes are required in the configuration file depending on the intended analysis. Data conversion is managed by Logstash **filter plugin**. As we can see in the configuration filter section, the **movie_year** and **movie_rating**   fields are defined to be treated as numbers rather than strings while indexing. This enables the user to perform numeric aggregations like average movie rating and other at various granularity levels.
 
 Then using the configuration file we can start indexing the data by performing the following command line operation
 
