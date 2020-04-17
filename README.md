@@ -42,3 +42,8 @@ This helps us to know the top three actors on each year based on the number of m
 ## Tag CLoud of actors by average Movie Rating
 ![](movierating.PNG)
 
+## Challenges
+Unable to send live data from Pycharm to Elastic cloud. Though we configured the enviromental variables correctly we continously get the following error.
+![](error.png)
+
+
