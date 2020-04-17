@@ -51,8 +51,8 @@ This helps us to know the top three actors on each year based on the number of m
 No major challenges were faced but it took us >12 hours to finish the project.
 
 
-But a minor issue was,we faced some errors when we load data into elastic cloud from pycharm
-We we decided to use local installation of elastic stack due to the time constraint. 
+But a minor issue we faced was loading data into elastic cloud from Pycharm.
+We decided to use local installation of elastic stack due to the time constraint. 
 
 
 
