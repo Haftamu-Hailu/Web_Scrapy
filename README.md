@@ -29,7 +29,7 @@ When the data is properly indexed we can start analyzing it using kibana
 ![](Dashboard1.png)
 
 
-## Dashboard with Filer
+## Dashboard with Filter
 
 We applied filter to all  visualization of the dashboard using actor name and the resulted dashboard is given below.<br 
 ![](Dashboard2F.png)
